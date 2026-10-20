@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Unique Minds** · Team ID `VTU-QFF-HC-0125` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Unique Minds)
+[⬆ Back to Top](#unique-minds)
 
 </div>
